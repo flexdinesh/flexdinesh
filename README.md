@@ -7,7 +7,6 @@
 ## Current Projects
 
 <!-- CURRENT-PROJECTS:START -->
-
 - **[agent-skills](https://github.com/flexdinesh/agent-skills)** | 1 stars
 - **[tokeninsights](https://github.com/flexdinesh/tokeninsights)** | 0 stars
 - **[tools-wiki](https://github.com/flexdinesh/tools-wiki)** | 0 stars
@@ -25,7 +24,6 @@
 ## Past Popular Projects
 
 <!-- PAST-PROJECTS:START -->
-
 - **[blogster](https://github.com/flexdinesh/blogster)** | 657 stars | A collection of beautiful, accessible and performant Astro blog templates.
 - **[design-system-boilerplate](https://github.com/flexdinesh/design-system-boilerplate)** | 51 stars | A design system boilerplate monorepo with opinionated principles, theming and token setup to build your own design system.
 - **[browser-or-node](https://github.com/flexdinesh/browser-or-node)** | 252 stars | Check where your code is running. In the browser or in node.js environment.
@@ -36,7 +34,6 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Two GitHub accounts, one machine](https://dineshpandiyan.com/blog/two-github-accounts-one-machine/)
 - [Faster CI Pipelines: Share build artifacts across jobs](https://www.thinkmill.com.au/blog/faster-ci-pipelines-share-build-artifacts-across-independent-jobs)
 - [Stacked Diffs with `git rebase --onto`](https://dineshpandiyan.com/blog/stacked-diffs-with-rebase-onto/)
