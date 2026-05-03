@@ -70,13 +70,13 @@ async function buildRepoList(repos) {
       const desc = data.description;
       const url = data.html_url;
       if (desc) {
-        lines.push(`- **[${repo}](${url})** ⭐ ${stars} — ${desc}`);
+        lines.push(`- **[${repo}](${url})** | ${stars} stars | ${desc}`);
       } else {
-        lines.push(`- **[${repo}](${url})** ⭐ ${stars}`);
+        lines.push(`- **[${repo}](${url})** | ${stars} stars`);
       }
     } catch (err) {
       console.error(`Error fetching ${repo}:`, err.message);
-      lines.push(`- **${repo}** — (failed to fetch)`);
+      lines.push(`- **${repo}** | (failed to fetch)`);
     }
   }
   return lines.join('\n');

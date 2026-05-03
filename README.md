@@ -1,6 +1,6 @@
 # Hello I'm Dinesh 👋
 
-> Over a decade of shipping across the stack from frontends to k8s, CI, cloud, and build tooling. I also run a 9-node k8s cluster in my homelab.
+> For over a decade, I have been shipping across the stack from frontends to k8s, CI, cloud, and build tooling. I also run a 9-node k8s cluster in my homelab.
 > Learning AI and agentic engineering by building and shipping tools.
 > Documenting my learnings on [dineshpandiyan.com](https://dineshpandiyan.com)
 
@@ -8,29 +8,29 @@
 
 <!-- CURRENT-PROJECTS:START -->
 
-- **[agent-skills](https://github.com/flexdinesh/agent-skills)** ⭐ 1
-- **[tokeninsights](https://github.com/flexdinesh/tokeninsights)** ⭐ 0
-- **[tools-wiki](https://github.com/flexdinesh/tools-wiki)** ⭐ 0
-- **[harness-tools](https://github.com/flexdinesh/harness-tools)** ⭐ 0
-- **[pi-mode-guard](https://github.com/flexdinesh/pi-mode-guard)** ⭐ 0
-- **[pi-session-timer](https://github.com/flexdinesh/pi-session-timer)** ⭐ 0
-- **[oc-bash-guard](https://github.com/flexdinesh/oc-bash-guard)** ⭐ 0
-- **[oc-timer](https://github.com/flexdinesh/oc-timer)** ⭐ 0
-- **[models.dev-website](https://github.com/flexdinesh/models.dev-website)** ⭐ 0 — https://models-dev.deebox.dev
-- **[models.dev-rss](https://github.com/flexdinesh/models.dev-rss)** ⭐ 1 — rss feed of models.dev
-- **[key-keeper](https://github.com/flexdinesh/key-keeper)** ⭐ 0 — Simple auth gateway to be used with Caddy forward_auth
-- **[plasma-tools](https://github.com/flexdinesh/plasma-tools)** ⭐ 0 — KDE Plasma 6 Wayland scripts and tools
+- **[agent-skills](https://github.com/flexdinesh/agent-skills)** | 1 stars
+- **[tokeninsights](https://github.com/flexdinesh/tokeninsights)** | 0 stars
+- **[tools-wiki](https://github.com/flexdinesh/tools-wiki)** | 0 stars
+- **[harness-tools](https://github.com/flexdinesh/harness-tools)** | 0 stars
+- **[pi-mode-guard](https://github.com/flexdinesh/pi-mode-guard)** | 0 stars
+- **[pi-session-timer](https://github.com/flexdinesh/pi-session-timer)** | 0 stars
+- **[oc-bash-guard](https://github.com/flexdinesh/oc-bash-guard)** | 0 stars
+- **[oc-timer](https://github.com/flexdinesh/oc-timer)** | 0 stars
+- **[models.dev-website](https://github.com/flexdinesh/models.dev-website)** | 0 stars | https://models-dev.deebox.dev
+- **[models.dev-rss](https://github.com/flexdinesh/models.dev-rss)** | 1 stars | rss feed of models.dev
+- **[key-keeper](https://github.com/flexdinesh/key-keeper)** | 0 stars | Simple auth gateway to be used with Caddy forward_auth
+- **[plasma-tools](https://github.com/flexdinesh/plasma-tools)** | 0 stars | KDE Plasma 6 Wayland scripts and tools
 <!-- CURRENT-PROJECTS:END -->
 
 ## Past Popular Projects
 
 <!-- PAST-PROJECTS:START -->
 
-- **[blogster](https://github.com/flexdinesh/blogster)** ⭐ 657 — A collection of beautiful, accessible and performant Astro blog templates.
-- **[design-system-boilerplate](https://github.com/flexdinesh/design-system-boilerplate)** ⭐ 51 — A design system boilerplate monorepo with opinionated principles, theming and token setup to build your own design system.
-- **[browser-or-node](https://github.com/flexdinesh/browser-or-node)** ⭐ 252 — Check where your code is running. In the browser or in node.js environment.
-- **[dev-landing-page](https://github.com/flexdinesh/dev-landing-page)** ⭐ 1351 — Minimal landing page for developers
-- **[typy](https://github.com/flexdinesh/typy)** ⭐ 226 — Minimal JavaScript type checking library
+- **[blogster](https://github.com/flexdinesh/blogster)** | 657 stars | A collection of beautiful, accessible and performant Astro blog templates.
+- **[design-system-boilerplate](https://github.com/flexdinesh/design-system-boilerplate)** | 51 stars | A design system boilerplate monorepo with opinionated principles, theming and token setup to build your own design system.
+- **[browser-or-node](https://github.com/flexdinesh/browser-or-node)** | 252 stars | Check where your code is running. In the browser or in node.js environment.
+- **[dev-landing-page](https://github.com/flexdinesh/dev-landing-page)** | 1351 stars | Minimal landing page for developers
+- **[typy](https://github.com/flexdinesh/typy)** | 226 stars | Minimal JavaScript type checking library
 <!-- PAST-PROJECTS:END -->
 
 ## Latest Blog Posts
