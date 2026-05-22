@@ -24,7 +24,7 @@
 ## Past Popular Projects
 
 <!-- PAST-PROJECTS:START -->
-- **[blogster](https://github.com/flexdinesh/blogster)** | 657 stars | A collection of beautiful, accessible and performant Astro blog templates.
+- **[blogster](https://github.com/flexdinesh/blogster)** | 656 stars | A collection of beautiful, accessible and performant Astro blog templates.
 - **[design-system-boilerplate](https://github.com/flexdinesh/design-system-boilerplate)** | 51 stars | A design system boilerplate monorepo with opinionated principles, theming and token setup to build your own design system.
 - **[browser-or-node](https://github.com/flexdinesh/browser-or-node)** | 252 stars | Check where your code is running. In the browser or in node.js environment.
 - **[dev-landing-page](https://github.com/flexdinesh/dev-landing-page)** | 1350 stars | Minimal landing page for developers
