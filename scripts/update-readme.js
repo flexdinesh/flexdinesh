@@ -1,31 +1,31 @@
-const fs = require('fs');
-const path = require('path');
+const fs = require("fs");
+const path = require("path");
 
 const CURRENT_REPOS = [
-  'agent-skills',
-  'tokeninsights',
-  'tools-wiki',
-  'harness-tools',
-  'pi-mode-guard',
-  'pi-session-timer',
-  'oc-bash-guard',
-  'oc-timer',
-  'models.dev-website',
-  'models.dev-rss',
-  'key-keeper',
-  'plasma-tools',
+  "gitsy",
+  "local-sandbox",
+  "tools-wiki",
+  "agent-skills",
+  "tokeninsights",
+  "harness-tools",
+  "pi-extensions",
+  "opencode-plugins",
+  "models.dev-website",
+  "models.dev-rss",
+  "key-keeper",
+  "plasma-tools",
 ];
 
 const PAST_REPOS = [
-  'blogster',
-  'design-system-boilerplate',
-  'browser-or-node',
-  'dev-landing-page',
-  'typy',
+  "blogster",
+  "design-system-boilerplate",
+  "browser-or-node",
+  "dev-landing-page",
+  "typy",
 ];
 
-const BLOG_FEED_URL = 'https://dineshpandiyan.com/blog/feed.xml';
-const README_PATH = path.join(__dirname, '..', 'README.md');
+const BLOG_FEED_URL = "https://dineshpandiyan.com/blog/feed.xml";
+const README_PATH = path.join(__dirname, "..", "README.md");
 
 async function fetchJSON(url) {
   const headers = {};
@@ -65,7 +65,9 @@ async function buildRepoList(repos) {
   const lines = [];
   for (const repo of repos) {
     try {
-      const data = await fetchJSON(`https://api.github.com/repos/flexdinesh/${repo}`);
+      const data = await fetchJSON(
+        `https://api.github.com/repos/flexdinesh/${repo}`,
+      );
       const stars = data.stargazers_count;
       const desc = data.description;
       const url = data.html_url;
@@ -79,7 +81,7 @@ async function buildRepoList(repos) {
       lines.push(`- **${repo}** | (failed to fetch)`);
     }
   }
-  return lines.join('\n');
+  return lines.join("\n");
 }
 
 async function buildBlogList() {
@@ -87,8 +89,8 @@ async function buildBlogList() {
   const items = parseRSS(xml);
   return items
     .slice(0, 6)
-    .map(item => `- [${item.title}](${item.link})`)
-    .join('\n');
+    .map((item) => `- [${item.title}](${item.link})`)
+    .join("\n");
 }
 
 function replaceSection(content, startMarker, endMarker, newContent) {
@@ -99,33 +101,48 @@ function replaceSection(content, startMarker, endMarker, newContent) {
   }
   return (
     content.substring(0, startIdx + startMarker.length) +
-    '\n' +
+    "\n" +
     newContent +
-    '\n' +
+    "\n" +
     content.substring(endIdx)
   );
 }
 
 async function main() {
-  let readme = fs.readFileSync(README_PATH, 'utf-8');
+  let readme = fs.readFileSync(README_PATH, "utf-8");
 
-  console.log('Updating current projects...');
+  console.log("Updating current projects...");
   const currentProjects = await buildRepoList(CURRENT_REPOS);
-  readme = replaceSection(readme, '<!-- CURRENT-PROJECTS:START -->', '<!-- CURRENT-PROJECTS:END -->', currentProjects);
+  readme = replaceSection(
+    readme,
+    "<!-- CURRENT-PROJECTS:START -->",
+    "<!-- CURRENT-PROJECTS:END -->",
+    currentProjects,
+  );
 
-  console.log('Updating past popular projects...');
+  console.log("Updating past popular projects...");
   const pastProjects = await buildRepoList(PAST_REPOS);
-  readme = replaceSection(readme, '<!-- PAST-PROJECTS:START -->', '<!-- PAST-PROJECTS:END -->', pastProjects);
+  readme = replaceSection(
+    readme,
+    "<!-- PAST-PROJECTS:START -->",
+    "<!-- PAST-PROJECTS:END -->",
+    pastProjects,
+  );
 
-  console.log('Updating blog posts...');
+  console.log("Updating blog posts...");
   const blogPosts = await buildBlogList();
-  readme = replaceSection(readme, '<!-- BLOG-POST-LIST:START -->', '<!-- BLOG-POST-LIST:END -->', blogPosts);
+  readme = replaceSection(
+    readme,
+    "<!-- BLOG-POST-LIST:START -->",
+    "<!-- BLOG-POST-LIST:END -->",
+    blogPosts,
+  );
 
   fs.writeFileSync(README_PATH, readme);
-  console.log('README.md updated successfully');
+  console.log("README.md updated successfully");
 }
 
-main().catch(err => {
+main().catch((err) => {
   console.error(err);
   process.exit(1);
 });

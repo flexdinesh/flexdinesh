@@ -7,14 +7,14 @@
 ## Current Projects
 
 <!-- CURRENT-PROJECTS:START -->
+- **[gitsy](https://github.com/flexdinesh/gitsy)** | 2 stars
+- **[local-sandbox](https://github.com/flexdinesh/local-sandbox)** | 0 stars
+- **[tools-wiki](https://github.com/flexdinesh/tools-wiki)** | 0 stars
 - **[agent-skills](https://github.com/flexdinesh/agent-skills)** | 1 stars
 - **[tokeninsights](https://github.com/flexdinesh/tokeninsights)** | 0 stars
-- **[tools-wiki](https://github.com/flexdinesh/tools-wiki)** | 0 stars
 - **[harness-tools](https://github.com/flexdinesh/harness-tools)** | 0 stars
-- **[pi-mode-guard](https://github.com/flexdinesh/pi-mode-guard)** | 0 stars
-- **[pi-session-timer](https://github.com/flexdinesh/pi-session-timer)** | 0 stars
-- **[oc-bash-guard](https://github.com/flexdinesh/oc-bash-guard)** | 0 stars
-- **[oc-timer](https://github.com/flexdinesh/oc-timer)** | 0 stars
+- **[pi-extensions](https://github.com/flexdinesh/pi-extensions)** | 0 stars
+- **[opencode-plugins](https://github.com/flexdinesh/opencode-plugins)** | 0 stars
 - **[models.dev-website](https://github.com/flexdinesh/models.dev-website)** | 0 stars | https://models-dev.deebox.dev
 - **[models.dev-rss](https://github.com/flexdinesh/models.dev-rss)** | 1 stars | rss feed of models.dev
 - **[key-keeper](https://github.com/flexdinesh/key-keeper)** | 0 stars | Simple auth gateway to be used with Caddy forward_auth
