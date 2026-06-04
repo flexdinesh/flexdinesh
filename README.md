@@ -34,12 +34,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Gitsy: git pull all repos in a dir](https://dineshpandiyan.com/blog/introducing-gitsy-git-pull-all-repos-in-a-dir/)
 - [Two GitHub accounts, one machine](https://dineshpandiyan.com/blog/two-github-accounts-one-machine/)
 - [Faster CI Pipelines: Share build artifacts across jobs](https://www.thinkmill.com.au/blog/faster-ci-pipelines-share-build-artifacts-across-independent-jobs)
 - [Stacked Diffs with `git rebase --onto`](https://dineshpandiyan.com/blog/stacked-diffs-with-rebase-onto/)
 - [Hot Swapping Nuphy Switches with Gateron Blue Switches](https://dineshpandiyan.com/blog/hot-swapping-nuphy-switches/)
 - [Arch Linux with Hyprland is very good](https://dineshpandiyan.com/blog/arch-linux-hyprland/)
-- [Installing Neovim in MacOS](https://dineshpandiyan.com/blog/install-neovim-macos/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
