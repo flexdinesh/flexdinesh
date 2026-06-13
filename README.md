@@ -8,7 +8,7 @@
 
 <!-- CURRENT-PROJECTS:START -->
 - **[gitsy](https://github.com/flexdinesh/gitsy)** | 2 stars
-- **[local-sandbox](https://github.com/flexdinesh/local-sandbox)** | 0 stars
+- **[local-sandbox](https://github.com/flexdinesh/cbox)** | 0 stars
 - **[tools-wiki](https://github.com/flexdinesh/tools-wiki)** | 0 stars
 - **[agent-skills](https://github.com/flexdinesh/agent-skills)** | 1 stars
 - **[tokeninsights](https://github.com/flexdinesh/tokeninsights)** | 0 stars
