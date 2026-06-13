@@ -3,13 +3,10 @@ const path = require("path");
 
 const CURRENT_REPOS = [
   "gitsy",
-  "local-sandbox",
+  "cbox",
   "tools-wiki",
   "agent-skills",
   "tokeninsights",
-  "harness-tools",
-  "pi-extensions",
-  "opencode-plugins",
   "models.dev-website",
   "models.dev-rss",
   "key-keeper",
