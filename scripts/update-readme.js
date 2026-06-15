@@ -3,10 +3,10 @@ const path = require("path");
 
 const CURRENT_REPOS = [
   "gitsy",
+  "tokeninsights",
   "cbox",
   "tools-wiki",
   "agent-skills",
-  "tokeninsights",
   "models.dev-website",
   "models.dev-rss",
   "key-keeper",

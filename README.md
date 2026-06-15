@@ -7,11 +7,11 @@
 ## Current Projects
 
 <!-- CURRENT-PROJECTS:START -->
-- **[gitsy](https://github.com/flexdinesh/gitsy)** | 2 stars | git pull upstream changes for all repos in a dir
+- **[gitsy](https://github.com/flexdinesh/gitsy)** | 3 stars | git pull upstream changes for all repos in a dir
+- **[tokeninsights](https://github.com/flexdinesh/tokeninsights)** | 0 stars | local token usage dashboard for various harnesses
 - **[cbox](https://github.com/flexdinesh/cbox)** | 0 stars | a cli tool to run your harnesses in a local docker sandbox
-- **[tools-wiki](https://github.com/flexdinesh/tools-wiki)** | 0 stars | cheatsheets for developer tools
-- **[agent-skills](https://github.com/flexdinesh/agent-skills)** | 1 stars
-- **[tokeninsights](https://github.com/flexdinesh/tokeninsights)** | 0 stars
+- **[tools-wiki](https://github.com/flexdinesh/tools-wiki)** | 1 stars | cheatsheets for developer tools
+- **[agent-skills](https://github.com/flexdinesh/agent-skills)** | 2 stars
 - **[models.dev-website](https://github.com/flexdinesh/models.dev-website)** | 0 stars | a fork of models.dev but with faster search and multi filters
 - **[models.dev-rss](https://github.com/flexdinesh/models.dev-rss)** | 1 stars | rss feed of models.dev
 - **[key-keeper](https://github.com/flexdinesh/key-keeper)** | 0 stars | Simple auth gateway to be used with Caddy forward_auth
