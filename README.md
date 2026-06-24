@@ -8,7 +8,7 @@
 
 <!-- CURRENT-PROJECTS:START -->
 - **[gitsy](https://github.com/flexdinesh/gitsy)** | 3 stars | git pull upstream changes for all repos in a dir
-- **[tokeninsights](https://github.com/flexdinesh/tokeninsights)** | 0 stars | local token usage dashboard for various harnesses
+- **[tokeninsights](https://github.com/flexdinesh/tokeninsights)** | 1 stars | local token usage dashboard for various harnesses
 - **[cbox](https://github.com/flexdinesh/cbox)** | 0 stars | a cli tool to run your harnesses in a local docker sandbox
 - **[tools-wiki](https://github.com/flexdinesh/tools-wiki)** | 1 stars | cheatsheets for developer tools
 - **[agent-skills](https://github.com/flexdinesh/agent-skills)** | 3 stars
@@ -21,7 +21,7 @@
 ## Past Popular Projects
 
 <!-- PAST-PROJECTS:START -->
-- **[blogster](https://github.com/flexdinesh/blogster)** | 656 stars | A collection of beautiful, accessible and performant Astro blog templates.
+- **[blogster](https://github.com/flexdinesh/blogster)** | 655 stars | A collection of beautiful, accessible and performant Astro blog templates.
 - **[design-system-boilerplate](https://github.com/flexdinesh/design-system-boilerplate)** | 51 stars | A design system boilerplate monorepo with opinionated principles, theming and token setup to build your own design system.
 - **[browser-or-node](https://github.com/flexdinesh/browser-or-node)** | 252 stars | Check where your code is running. In the browser or in node.js environment.
 - **[dev-landing-page](https://github.com/flexdinesh/dev-landing-page)** | 1351 stars | Minimal landing page for developers
