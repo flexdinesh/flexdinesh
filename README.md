@@ -7,15 +7,16 @@
 ## Current Projects
 
 <!-- CURRENT-PROJECTS:START -->
-- **[gitsy](https://github.com/flexdinesh/gitsy)** | 3 stars | git pull upstream changes for all repos in a dir
-- **[tokeninsights](https://github.com/flexdinesh/tokeninsights)** | 1 stars | local token usage dashboard for various harnesses
-- **[cbox](https://github.com/flexdinesh/cbox)** | 0 stars | a cli tool to run your harnesses in a local docker sandbox
-- **[tools-wiki](https://github.com/flexdinesh/tools-wiki)** | 1 stars | cheatsheets for developer tools
-- **[agent-skills](https://github.com/flexdinesh/agent-skills)** | 3 stars
-- **[models.dev-website](https://github.com/flexdinesh/models.dev-website)** | 0 stars | a fork of models.dev but with faster search and multi filters
-- **[models.dev-rss](https://github.com/flexdinesh/models.dev-rss)** | 1 stars | rss feed of models.dev
-- **[key-keeper](https://github.com/flexdinesh/key-keeper)** | 0 stars | Simple auth gateway to be used with Caddy forward_auth
-- **[plasma-tools](https://github.com/flexdinesh/plasma-tools)** | 0 stars | KDE Plasma 6 Wayland scripts and tools
+- **[ssh-drop](https://github.com/flexdinesh/ssh-drop)** | a cli to drag screenshots for ssh agentic sessions
+- **[gitsy](https://github.com/flexdinesh/gitsy)** | git pull upstream changes for all repos in a dir
+- **[tokeninsights](https://github.com/flexdinesh/tokeninsights)** | local token usage dashboard for various harnesses
+- **[cbox](https://github.com/flexdinesh/cbox)** | a cli tool to run your harnesses in a local docker sandbox
+- **[tools-wiki](https://github.com/flexdinesh/tools-wiki)** | cheatsheets for developer tools
+- **[agent-skills](https://github.com/flexdinesh/agent-skills)**
+- **[models.dev-website](https://github.com/flexdinesh/models.dev-website)** | a fork of models.dev but with faster search and multi filters
+- **[models.dev-rss](https://github.com/flexdinesh/models.dev-rss)** | rss feed of models.dev
+- **[key-keeper](https://github.com/flexdinesh/key-keeper)** | Simple auth gateway to be used with Caddy forward_auth
+- **[plasma-tools](https://github.com/flexdinesh/plasma-tools)** | KDE Plasma 6 Wayland scripts and tools
 <!-- CURRENT-PROJECTS:END -->
 
 ## Past Popular Projects

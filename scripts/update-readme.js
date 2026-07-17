@@ -2,6 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 const CURRENT_REPOS = [
+  "ssh-drop",
   "gitsy",
   "tokeninsights",
   "cbox",
@@ -58,7 +59,7 @@ function parseRSS(xml) {
   return items;
 }
 
-async function buildRepoList(repos) {
+async function buildRepoList(repos, includeStars = true) {
   const lines = [];
   for (const repo of repos) {
     try {
@@ -68,10 +69,11 @@ async function buildRepoList(repos) {
       const stars = data.stargazers_count;
       const desc = data.description;
       const url = data.html_url;
+      const starsText = includeStars ? ` | ${stars} stars` : "";
       if (desc) {
-        lines.push(`- **[${repo}](${url})** | ${stars} stars | ${desc}`);
+        lines.push(`- **[${repo}](${url})**${starsText} | ${desc}`);
       } else {
-        lines.push(`- **[${repo}](${url})** | ${stars} stars`);
+        lines.push(`- **[${repo}](${url})**${starsText}`);
       }
     } catch (err) {
       console.error(`Error fetching ${repo}:`, err.message);
@@ -109,7 +111,7 @@ async function main() {
   let readme = fs.readFileSync(README_PATH, "utf-8");
 
   console.log("Updating current projects...");
-  const currentProjects = await buildRepoList(CURRENT_REPOS);
+  const currentProjects = await buildRepoList(CURRENT_REPOS, false);
   readme = replaceSection(
     readme,
     "<!-- CURRENT-PROJECTS:START -->",
