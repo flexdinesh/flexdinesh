@@ -63,9 +63,7 @@ async function buildRepoList(repos, includeStars = true) {
   const lines = [];
   for (const repo of repos) {
     try {
-      const data = await fetchJSON(
-        `https://api.github.com/repos/flexdinesh/${repo}`,
-      );
+      const data = await fetchJSON(`https://api.github.com/repos/flexdinesh/${repo}`);
       const stars = data.stargazers_count;
       const desc = data.description;
       const url = data.html_url;
