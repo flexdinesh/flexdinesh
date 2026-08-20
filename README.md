@@ -26,7 +26,7 @@
 - **[design-system-boilerplate](https://github.com/flexdinesh/design-system-boilerplate)** | 51 stars | A design system boilerplate monorepo with opinionated principles, theming and token setup to build your own design system.
 - **[browser-or-node](https://github.com/flexdinesh/browser-or-node)** | 251 stars | Check where your code is running. In the browser or in node.js environment.
 - **[dev-landing-page](https://github.com/flexdinesh/dev-landing-page)** | 1347 stars | Minimal landing page for developers
-- **[typy](https://github.com/flexdinesh/typy)** | 226 stars | Minimal JavaScript type checking library
+- **[typy](https://github.com/flexdinesh/typy)** | 225 stars | Minimal JavaScript type checking library
 <!-- PAST-PROJECTS:END -->
 
 ## Latest Blog Posts
