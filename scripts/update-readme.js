@@ -2,6 +2,8 @@ const fs = require("fs");
 const path = require("path");
 
 const CURRENT_REPOS = [
+  "serve-md",
+  "serve-openapi",
   "ssh-drop",
   "gitsy",
   "tokeninsights",
