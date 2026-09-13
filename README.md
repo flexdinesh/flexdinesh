@@ -8,7 +8,7 @@
 These are the tools I built for myself and use them on an everyday basis.
 
 <!-- CURRENT-PROJECTS:START -->
-- **[serve-md](https://github.com/flexdinesh/serve-md)**
+- **[serve-md](https://github.com/flexdinesh/servef)** | Serve all markdown files in a dir over a browsable web interface
 - **[serve-openapi](https://github.com/flexdinesh/serve-openapi)** | a cli to serve all the openapi spec yaml files in a dir over http as a website using Scalar
 - **[ssh-drop](https://github.com/flexdinesh/ssh-drop)** | a cli to drag screenshots for ssh agentic sessions
 - **[gitsy](https://github.com/flexdinesh/gitsy)** | git pull upstream changes for all repos in a dir
