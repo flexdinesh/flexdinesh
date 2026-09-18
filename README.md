@@ -11,7 +11,7 @@ These are the tools I built for myself and use them on an everyday basis.
 - **[servediff](https://github.com/flexdinesh/servediff)** | Serve git diff over a web browser
 - **[servef](https://github.com/flexdinesh/servef)** | Serve all markdown files in a dir over a browsable web interface
 - **[tokeninsights](https://github.com/flexdinesh/tokeninsights)** | local token usage dashboard for various harnesses
-- **[tool-logger](https://github.com/flexdinesh/tool-logger)**
+- **[tool-logger](https://github.com/flexdinesh/tool-logger)** | Log codex/opencode tool calls and view them in a web dashboard
 - **[gitsy](https://github.com/flexdinesh/gitsy)** | git pull upstream changes for all repos in a dir
 - **[ssh-drop](https://github.com/flexdinesh/ssh-drop)** | a cli to drag screenshots for ssh agentic sessions
 - **[serve-openapi](https://github.com/flexdinesh/serve-openapi)** | a cli to serve all the openapi spec yaml files in a dir over http as a website using Scalar
