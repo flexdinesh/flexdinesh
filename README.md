@@ -8,15 +8,15 @@
 These are the tools I built for myself and use them on an everyday basis.
 
 <!-- CURRENT-PROJECTS:START -->
-- **[serve-md](https://github.com/flexdinesh/servef)** | Serve all markdown files in a dir over a browsable web interface
-- **[serve-openapi](https://github.com/flexdinesh/serve-openapi)** | a cli to serve all the openapi spec yaml files in a dir over http as a website using Scalar
-- **[ssh-drop](https://github.com/flexdinesh/ssh-drop)** | a cli to drag screenshots for ssh agentic sessions
-- **[gitsy](https://github.com/flexdinesh/gitsy)** | git pull upstream changes for all repos in a dir
+- **[servediff](https://github.com/flexdinesh/servediff)** | Serve git diff over a web browser
+- **[servef](https://github.com/flexdinesh/servef)** | Serve all markdown files in a dir over a browsable web interface
 - **[tokeninsights](https://github.com/flexdinesh/tokeninsights)** | local token usage dashboard for various harnesses
-- **[cbox](https://github.com/flexdinesh/cbox)** | a cli tool to run your harnesses in a local docker sandbox
+- **[tool-logger](https://github.com/flexdinesh/tool-logger)**
+- **[gitsy](https://github.com/flexdinesh/gitsy)** | git pull upstream changes for all repos in a dir
+- **[ssh-drop](https://github.com/flexdinesh/ssh-drop)** | a cli to drag screenshots for ssh agentic sessions
+- **[serve-openapi](https://github.com/flexdinesh/serve-openapi)** | a cli to serve all the openapi spec yaml files in a dir over http as a website using Scalar
 - **[tools-wiki](https://github.com/flexdinesh/tools-wiki)** | cheatsheets for developer tools
 - **[agent-skills](https://github.com/flexdinesh/agent-skills)** | collection of personal and vendored skills that i use everyday
-- **[models.dev-website](https://github.com/flexdinesh/models.dev-website)** | a fork of models.dev but with faster search and multi filters
 - **[models.dev-rss](https://github.com/flexdinesh/models.dev-rss)** | rss feed of models.dev
 - **[key-keeper](https://github.com/flexdinesh/key-keeper)** | Simple auth gateway to be used with Caddy forward_auth
 - **[plasma-tools](https://github.com/flexdinesh/plasma-tools)** | KDE Plasma 6 Wayland scripts and tools

@@ -2,15 +2,15 @@ const fs = require("fs");
 const path = require("path");
 
 const CURRENT_REPOS = [
-  "serve-md",
-  "serve-openapi",
-  "ssh-drop",
-  "gitsy",
+  "servediff",
+  "servef",
   "tokeninsights",
-  "cbox",
+  "tool-logger",
+  "gitsy",
+  "ssh-drop",
+  "serve-openapi",
   "tools-wiki",
   "agent-skills",
-  "models.dev-website",
   "models.dev-rss",
   "key-keeper",
   "plasma-tools",
