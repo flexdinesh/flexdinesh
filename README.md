@@ -8,7 +8,7 @@
 These are the tools I built for myself and use them on an everyday basis.
 
 <!-- CURRENT-PROJECTS:START -->
-- **[servediff](https://github.com/flexdinesh/servediff)** | Serve git diff over a web interface
+- **[servediff](https://github.com/flexdinesh/diffx)** | A tool help work with git diffs and agents
 - **[servef](https://github.com/flexdinesh/servef)** | Serve all markdown files in a dir over a readonly web editor-like interface
 - **[tokeninsights](https://github.com/flexdinesh/tokeninsights)** | local token usage dashboard for various harnesses
 - **[tool-logger](https://github.com/flexdinesh/tool-logger)** | Log codex/opencode tool calls and view them in a web dashboard
