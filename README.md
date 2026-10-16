@@ -14,7 +14,7 @@ These are the tools I built for myself and use them on an everyday basis.
 - **[tool-logger](https://github.com/flexdinesh/tool-logger)** | Log codex/opencode tool calls and view them in a web dashboard
 - **[gitsy](https://github.com/flexdinesh/gitsy)** | git pull upstream changes for all repos in a dir
 - **[ssh-drop](https://github.com/flexdinesh/ssh-drop)** | a cli to drag screenshots for ssh agentic sessions
-- **[serve-openapi](https://github.com/flexdinesh/serve-openapi)** | a cli to serve all the openapi spec yaml files in a dir over http as a website using Scalar
+- **[serve-openapi](https://github.com/flexdinesh/serveo)** | Browse all the openapi spec yaml files in a dir using Scalar
 - **[tools-wiki](https://github.com/flexdinesh/tools-wiki)** | cheatsheets for developer tools
 - **[agent-skills](https://github.com/flexdinesh/agent-skills)** | collection of personal and vendored skills that i use everyday
 - **[models.dev-rss](https://github.com/flexdinesh/models.dev-rss)** | rss feed of models.dev
