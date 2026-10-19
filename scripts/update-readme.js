@@ -2,13 +2,13 @@ const fs = require("fs");
 const path = require("path");
 
 const CURRENT_REPOS = [
-  "servediff",
+  "diffx",
   "servef",
+  "gitsy",
   "tokeninsights",
   "tool-logger",
-  "gitsy",
-  "ssh-drop",
-  "serve-openapi",
+  "portforward",
+  "serveo",
   "tools-wiki",
   "agent-skills",
   "models.dev-rss",
