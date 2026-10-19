@@ -8,13 +8,13 @@
 These are the tools I built for myself and use them on an everyday basis.
 
 <!-- CURRENT-PROJECTS:START -->
-- **[servediff](https://github.com/flexdinesh/diffx)** | A tool help work with git diffs and agents
-- **[servef](https://github.com/flexdinesh/servef)** | Serve all markdown files in a dir over a readonly web editor-like interface
+- **[diffx](https://github.com/flexdinesh/diffx)** | A tool help work with git diffs and agents
+- **[servef](https://github.com/flexdinesh/servef)** | An editor-like readonly code viewer. An excellent tool for the agentic era.
+- **[gitsy](https://github.com/flexdinesh/gitsy)** | Manage all the git repos in your machine using a single CLI. fetch in batch, delete worktrees easily, etc.
 - **[tokeninsights](https://github.com/flexdinesh/tokeninsights)** | local token usage dashboard for various harnesses
 - **[tool-logger](https://github.com/flexdinesh/tool-logger)** | Log codex/opencode tool calls and view them in a web dashboard
-- **[gitsy](https://github.com/flexdinesh/gitsy)** | git pull upstream changes for all repos in a dir
-- **[ssh-drop](https://github.com/flexdinesh/ssh-drop)** | a cli to drag screenshots for ssh agentic sessions
-- **[serve-openapi](https://github.com/flexdinesh/serveo)** | Browse all the openapi spec yaml files in a dir using Scalar
+- **[portforward](https://github.com/flexdinesh/portforward)** | A tiny cli to manage ssh local port forwarding
+- **[serveo](https://github.com/flexdinesh/serveo)** | Browse all the openapi spec yaml files in a dir using Scalar
 - **[tools-wiki](https://github.com/flexdinesh/tools-wiki)** | cheatsheets for developer tools
 - **[agent-skills](https://github.com/flexdinesh/agent-skills)** | collection of personal and vendored skills that i use everyday
 - **[models.dev-rss](https://github.com/flexdinesh/models.dev-rss)** | rss feed of models.dev
