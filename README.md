@@ -1,7 +1,6 @@
 # Hello, I'm Dinesh! 👋
 
-> I work on infra and build tooling. I run a 9-node k8s cluster in my homelab.
-> I document my journey on [dineshpandiyan.com](https://dineshpandiyan.com)
+> Building tools for developers, automating workflows using agents, and tinkering with infrastructure. I moonlight as a homelabber.
 
 ## Current Projects
 
