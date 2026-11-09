@@ -7,7 +7,7 @@
 These are the tools I built for myself and use them on an everyday basis.
 
 <!-- CURRENT-PROJECTS:START -->
-- **[diffx](https://github.com/flexdinesh/diffx)** | A tool to help review git diffs across many agentic sessions and repos
+- **diffx** | (failed to fetch)
 - **[servef](https://github.com/flexdinesh/srcz)** | An editor-like readonly code viewer. An excellent tool for the agentic era.
 - **[gitsy](https://github.com/flexdinesh/gitsy)** | Manage all the git repos in your machine using a single CLI. fetch in batch, delete worktrees easily, etc.
 - **[tokeninsights](https://github.com/flexdinesh/tokeninsights)** | local token usage dashboard for various harnesses
