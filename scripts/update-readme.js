@@ -3,7 +3,7 @@ const path = require("path");
 
 const CURRENT_REPOS = [
   "diffx",
-  "servef",
+  "zero",
   "gitsy",
   "tokeninsights",
   "tool-logger",
@@ -71,9 +71,9 @@ async function buildRepoList(repos, includeStars = true) {
       const url = data.html_url;
       const starsText = includeStars ? ` | ${stars} stars` : "";
       if (desc) {
-        lines.push(`- **[${repo}](${url})**${starsText} | ${desc}`);
+        lines.push(`- **[${data.name}](${url})**${starsText} | ${desc}`);
       } else {
-        lines.push(`- **[${repo}](${url})**${starsText}`);
+        lines.push(`- **[${data.name}](${url})**${starsText}`);
       }
     } catch (err) {
       console.error(`Error fetching ${repo}:`, err.message);
