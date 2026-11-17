@@ -7,10 +7,10 @@
 These are the tools I built for myself and use them on an everyday basis.
 
 <!-- CURRENT-PROJECTS:START -->
-- **[diffx](https://github.com/flexdinesh/diffx)** | A tool to help review git diffs across many agentic sessions and repos
-- **[servef](https://github.com/flexdinesh/zero)** | An editor-like readonly code viewer. An excellent tool for the agentic era.
+- **[diffx](https://github.com/flexdinesh/diffx)** | A review bench for all your diffs
+- **[servef](https://github.com/flexdinesh/zero)** | The code viewer for the agentic era.
 - **[gitsy](https://github.com/flexdinesh/gitsy)** | Manage all the git repos in your machine using a single CLI. fetch in batch, delete worktrees easily, etc.
-- **[tokeninsights](https://github.com/flexdinesh/tokeninsights)** | local token usage dashboard for various harnesses
+- **[tokeninsights](https://github.com/flexdinesh/tokeninsights)** | Token usage dashboard for your coding agents
 - **[tool-logger](https://github.com/flexdinesh/tool-logger)** | Log codex/opencode tool calls and view them in a web dashboard
 - **[portforward](https://github.com/flexdinesh/portforward)** | A tiny cli to manage ssh local port forwarding
 - **[serveo](https://github.com/flexdinesh/serveo)** | Browse all the openapi spec yaml files in a dir using Scalar
