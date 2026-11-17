@@ -59,6 +59,8 @@ test("uses canonical repository names after redirects and preserves static conte
     },
   });
 
+  assert.equal(requestedRepos[0], "stage");
+  assert.ok(output.includes("<!-- CURRENT-PROJECTS:START -->\n- **[renamed-stage](https://github.com/flexdinesh/renamed-stage)** | Latest description\n"));
   assert.ok(requestedRepos.includes("zero"));
   assert.ok(!requestedRepos.includes("servef"));
   assert.ok(output.startsWith("# Static intro\n"));

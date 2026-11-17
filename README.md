@@ -7,6 +7,7 @@
 These are the tools I built for myself and use them on an everyday basis.
 
 <!-- CURRENT-PROJECTS:START -->
+- **[stage](https://github.com/flexdinesh/stage)** | An excellent task manager for your harnesses
 - **[diffx](https://github.com/flexdinesh/diffx)** | A review bench for all your diffs
 - **[zero](https://github.com/flexdinesh/zero)** | The code viewer for the agentic era.
 - **[gitsy](https://github.com/flexdinesh/gitsy)** | Manage all the git repos in your machine using a single CLI. fetch in batch, delete worktrees easily, etc.

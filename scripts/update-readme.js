@@ -2,6 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 const CURRENT_REPOS = [
+  "stage",
   "diffx",
   "zero",
   "gitsy",
