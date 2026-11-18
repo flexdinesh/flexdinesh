@@ -14,12 +14,9 @@ These are the tools I built for myself and use them on an everyday basis.
 - **[tokeninsights](https://github.com/flexdinesh/tokeninsights)** | Token usage dashboard for your coding agents
 - **[tool-logger](https://github.com/flexdinesh/tool-logger)** | Log codex/opencode tool calls and view them in a web dashboard
 - **[portforward](https://github.com/flexdinesh/portforward)** | A tiny cli to manage ssh local port forwarding
-- **[serveo](https://github.com/flexdinesh/serveo)** | Browse all the openapi spec yaml files in a dir using Scalar
 - **[tools-wiki](https://github.com/flexdinesh/tools-wiki)** | cheatsheets for developer tools
 - **[agent-skills](https://github.com/flexdinesh/agent-skills)** | collection of personal and vendored skills that i use everyday
 - **[models.dev-rss](https://github.com/flexdinesh/models.dev-rss)** | rss feed of models.dev
-- **[key-keeper](https://github.com/flexdinesh/key-keeper)** | Simple auth gateway to be used with Caddy forward_auth
-- **[plasma-tools](https://github.com/flexdinesh/plasma-tools)** | KDE Plasma 6 Wayland scripts and tools
 <!-- CURRENT-PROJECTS:END -->
 
 ## Past Popular Projects
@@ -46,5 +43,5 @@ These are the tools I built for myself and use them on an everyday basis.
 ## Connect
 
 - 🌐 [Blog](https://dineshpandiyan.com)
-- 🐦 [Twitter/X](https://twitter.com/twitter)
+- 🐦 [Twitter/X](https://x.com/flexdinesh)
 - 💼 [LinkedIn](https://linkedin.com/in/dineshpandiyan)
