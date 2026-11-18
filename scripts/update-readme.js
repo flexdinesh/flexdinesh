@@ -9,12 +9,9 @@ const CURRENT_REPOS = [
   "tokeninsights",
   "tool-logger",
   "portforward",
-  "serveo",
   "tools-wiki",
   "agent-skills",
   "models.dev-rss",
-  "key-keeper",
-  "plasma-tools",
 ];
 
 const PAST_REPOS = [
